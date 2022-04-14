@@ -1,4 +1,9 @@
+
 ### Hi there 👋
+Checkout https://gist.github.com/developer-shubham101 for more sample codes...
+
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on React-Native
 
 <!--
 **developer-shubham101/developer-shubham101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
