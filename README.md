@@ -2,7 +2,7 @@
 ### Hi there 👋
 Checkout https://gist.github.com/developer-shubham101 for more sample codes...
 
-- 🌱 I’m currently learning Angular JS
+- 🌱 I’m currently learning AI, ML, RAG
 
 <!--
 **developer-shubham101/developer-shubham101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
